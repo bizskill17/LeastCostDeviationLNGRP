@@ -1,0 +1,5 @@
+{
+  "name": "Least Cost Deviation Tracker",
+  "description": "A high-performance manufacturing analytics dashboard for tracking material weight deviations, calculating cost impacts, and identifying efficiency opportunities across production jobs.",
+  "requestFramePermissions": []
+}
